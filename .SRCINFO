@@ -1,7 +1,7 @@
 pkgbase = fwbuilder
 	pkgdesc = Object-oriented GUI and set of compilers for various firewall platforms
 	pkgver = 5.1.0.3599
-	pkgrel = 5
+	pkgrel = 6
 	url = http://www.fwbuilder.org/
 	install = fwbuilder.install
 	arch = i686
